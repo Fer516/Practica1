@@ -1,0 +1,22 @@
+p{
+    color: rgb(180, 155, 185);
+    
+}
+h1{
+    color: rgb(116, 201, 214);
+    text-align: center;
+}
+body{
+    margin: 20pc;
+    margin-top: auto;
+}
+html{
+    background-color: black;
+}
+ol{
+    color: beige;
+}
+#miBoton{
+    background-color: brown;
+    color: aliceblue;
+}
